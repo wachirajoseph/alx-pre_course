@@ -1,1 +1,1 @@
-My first readme
+Code is a magic
